@@ -1,0 +1,17 @@
+C:\Users\gabri\OneDrive\Documentos\GitHub\CsSGBD\CsSGBD\CsSGBD\bin\Debug\CsSGBD.exe.config
+C:\Users\gabri\OneDrive\Documentos\GitHub\CsSGBD\CsSGBD\CsSGBD\bin\Debug\CsSGBD.exe
+C:\Users\gabri\OneDrive\Documentos\GitHub\CsSGBD\CsSGBD\CsSGBD\bin\Debug\CsSGBD.pdb
+C:\Users\gabri\OneDrive\Documentos\GitHub\CsSGBD\CsSGBD\CsSGBD\obj\Debug\CsSGBD.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Documentos\GitHub\CsSGBD\CsSGBD\CsSGBD\obj\Debug\CsSGBD.FormLocal.resources
+C:\Users\gabri\OneDrive\Documentos\GitHub\CsSGBD\CsSGBD\CsSGBD\obj\Debug\CsSGBD.Properties.Resources.resources
+C:\Users\gabri\OneDrive\Documentos\GitHub\CsSGBD\CsSGBD\CsSGBD\obj\Debug\CsSGBD.csproj.GenerateResource.cache
+C:\Users\gabri\OneDrive\Documentos\GitHub\CsSGBD\CsSGBD\CsSGBD\obj\Debug\CsSGBD.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documentos\GitHub\CsSGBD\CsSGBD\CsSGBD\obj\Debug\CsSGBD.exe
+C:\Users\gabri\OneDrive\Documentos\GitHub\CsSGBD\CsSGBD\CsSGBD\obj\Debug\CsSGBD.pdb
+C:\Users\gabri\OneDrive\Documentos\GitHub\CsSGBD\CsSGBD\CsSGBD\bin\Debug\MySql.Data.dll
+C:\Users\gabri\OneDrive\Documentos\GitHub\CsSGBD\CsSGBD\CsSGBD\bin\Debug\System.Memory.dll
+C:\Users\gabri\OneDrive\Documentos\GitHub\CsSGBD\CsSGBD\CsSGBD\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\gabri\OneDrive\Documentos\GitHub\CsSGBD\CsSGBD\CsSGBD\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\gabri\OneDrive\Documentos\GitHub\CsSGBD\CsSGBD\CsSGBD\bin\Debug\System.Buffers.dll
+C:\Users\gabri\OneDrive\Documentos\GitHub\CsSGBD\CsSGBD\CsSGBD\bin\Debug\MySql.Data.xml
+C:\Users\gabri\OneDrive\Documentos\GitHub\CsSGBD\CsSGBD\CsSGBD\obj\Debug\CsSGBD.csproj.CopyComplete
